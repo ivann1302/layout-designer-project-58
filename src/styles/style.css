@@ -177,13 +177,6 @@ a {
 
 }
 
-.video {
-  bottom: 100px;
-  height: 569px;
-
-  filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
-}
-
 .video-description {
   position: absolute;
   left: 165px;
@@ -196,15 +189,6 @@ a {
   height: 146px;
 }
 
-.video-div {
-  position: absolute;
-  top: 344px;
-  left: 261px;
-
-  width: 919px;
-  height: 569px;
-}
-
 .video-p {
   position: absolute;
   top: 278px;
@@ -212,6 +196,22 @@ a {
   right: 0;
 
   display: block;
+}
+
+.video-div {
+  position: absolute;
+  top: 349px;
+  left: 261px;
+
+  width: 919px;
+  height: 569px;
+}
+
+.video {
+  bottom: 100px;
+  height: 569px;
+
+  filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
 }
 
 #navigator {
@@ -240,7 +240,7 @@ a {
 
 .card-conteiner {
   position: relative;
-  left: -3px;
+  left: -7px;
   display: flex;
   justify-content: space-between;
   align-content: space-between;
