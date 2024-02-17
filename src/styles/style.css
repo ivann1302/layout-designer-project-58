@@ -198,7 +198,7 @@ a {
 
 .video-div {
   position: absolute;
-  top: 329px;
+  top: 339px;
   left: 261px;
 
   width: 919px;
@@ -294,7 +294,7 @@ width: 350px;
   margin: 24px 0 0 0;
   padding-top: 24px;
   padding-left: 24px;
-  padding-bottom: 40px;
+  padding-bottom: 55px;
 
   color: var(--main-dark-color);
   font-size: 64px;
