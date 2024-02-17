@@ -152,6 +152,8 @@ a {
   flex-direction: column;
   height: 814px;
   width: 1440px;
+
+  z-index: 1;
 }
 
 
@@ -217,7 +219,7 @@ a {
   margin: 0;
 
   display: flex;
-  height: 914px;
+  height: 991px;
   width: 1440px;
 }
 
