@@ -52,25 +52,6 @@ a {
   text-decoration: none;
 }
 
-h1 {
-  font-weight: 400;
-}
-
-h2 {
-  margin: 0;
-
-  font-size: 60px;
-  color: var(--main-color);
-  font-family: Neucha-Regular, sans-serif;
-  font-weight: 400;
-  line-height: 1.2em;
-}
-
-
-h3 {
-  font-size: 34px;
-}
-
 .bg-image {
   position: relative;
 }
@@ -115,6 +96,7 @@ h3 {
 }
 
 .header-title {
+  margin-top: 0;
   position: absolute;
   left: 165px;
   top: 100px;
@@ -122,6 +104,7 @@ h3 {
   font-size: 72px;
   color: var(--main-color);
   font-family: Neucha-Regular, sans-serif;
+  font-weight: 400;
 
   z-index: 1;
 }
@@ -229,8 +212,9 @@ h3 {
   display: block;
 }
 
-.menu-section {
+#navigator {
   position: relative;
+  margin: 0;
 
   display: flex;
   height: 914px;
@@ -313,6 +297,7 @@ width: 350px;
   color: var(--main-dark-color);
   font-size: 64px;
   font-family: Neucha-Regular, sans-serif;
+  font-weight: 400;
 
 }
 
@@ -325,6 +310,7 @@ width: 350px;
   color: var(--main-color);
   font-size: 34px;
   font-family: Neucha-Regular, sans-serif;
+  font-weight: 400;
 }
 
 .card-text {
@@ -833,5 +819,3 @@ input::placeholder {
 .mt-1-5 {
   margin-top: 1.5rem;
 }
-
-/*851 846 837
