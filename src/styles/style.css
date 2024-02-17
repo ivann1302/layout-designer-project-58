@@ -180,7 +180,7 @@ a {
 .video-description {
   position: absolute;
   left: 165px;
-  top: 103px;
+  top: 100px;
   padding: 0;
 
   display: flex;
@@ -191,7 +191,7 @@ a {
 
 .video-p {
   position: absolute;
-  top: 278px;
+  top: 276px;
   left: 0;
   right: 0;
 
@@ -200,7 +200,7 @@ a {
 
 .video-div {
   position: absolute;
-  top: 334px;
+  top: 331px;
   left: 261px;
 
   width: 919px;
