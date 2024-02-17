@@ -187,7 +187,7 @@ a {
 .video-description {
   position: absolute;
   left: 165px;
-  top: 100px;
+  top: 103px;
   padding: 0;
 
   display: flex;
@@ -198,7 +198,7 @@ a {
 
 .video-div {
   position: absolute;
-  top: 339px;
+  top: 344px;
   left: 261px;
 
   width: 919px;
@@ -240,7 +240,7 @@ a {
 
 .card-conteiner {
   position: relative;
-  left: 3px;
+  left: 10px;
   display: flex;
   justify-content: space-between;
   align-content: space-between;
