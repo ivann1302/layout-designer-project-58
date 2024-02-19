@@ -191,8 +191,9 @@ a {
 
 .video-p {
   position: absolute;
-  top: 273px;
-  left: 165px;
+  top: 274px;
+  left: 0;
+  right: 0;
 
   display: block;
 
