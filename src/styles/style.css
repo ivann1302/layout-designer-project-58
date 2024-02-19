@@ -147,8 +147,7 @@ a {
 
 .videosection {
   position: relative;
-  margin-top: 10px;
-  margin-bottom: 5px;
+  margin-top: 5px;
 
   display: flex;
   flex-direction: column;
@@ -220,7 +219,6 @@ a {
   position: relative;
   margin: 0;
   margin-top: 5px;
-  margin-bottom: 5px;
 
   display: flex;
   height: 991px;
@@ -332,7 +330,6 @@ width: 350px;
 #ikea-effect {
   position: relative;
   margin-top: 5px;
-  margin-bottom: 5px;
   padding: 100px 0;
 
   display: flex;
@@ -454,7 +451,6 @@ width: 350px;
 #premature-optimization {
   position: relative;
   margin-top: 5px;
-  margin-bottom: 5px;
   padding: 100px 0;
 
   display: flex;
@@ -581,7 +577,6 @@ width: 350px;
 #distortion-of-novelty {
   position: relative;
   margin-top: 5px;
-  margin-bottom: 5px;
   padding: 100px 0;
 
   display: flex;
@@ -614,7 +609,6 @@ content: "";
 #hyperbolic-depreciation {
   position: relative;
   margin-top: 5px;
-  margin-bottom: 5px;
   padding: 100px 0;
 
   display: flex;
@@ -647,7 +641,6 @@ content: "";
 #errors-in-planning {
   position: relative;
   margin-top: 5px;
-  margin-bottom: 5px;
   padding: 100px 0;
 
   min-height: 919px;
