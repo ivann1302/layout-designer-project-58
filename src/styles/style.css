@@ -164,7 +164,6 @@ a {
 
   background-color: var(--white-color);
 }
-
 .videotitle {
   position: absolute;
 
@@ -192,7 +191,7 @@ a {
 
 .video-p {
   position: absolute;
-  top: 276px;
+  top: 273px;
   left: 0;
   right: 0;
 
@@ -201,7 +200,7 @@ a {
 
 .video-div {
   position: absolute;
-  top: 331px;
+  top: 329px;
   left: 261px;
 
   width: 919px;
