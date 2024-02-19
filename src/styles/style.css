@@ -152,7 +152,7 @@ a {
 
   display: flex;
   flex-direction: column;
-  height: 814px;
+  height: 819px;
   width: 1440px;
 
   z-index: 1;
@@ -194,7 +194,7 @@ a {
   position: absolute;
   top: 274px;
   left: 0;
-  right: 1px;
+  right: 3px;
 
   display: block;
 
