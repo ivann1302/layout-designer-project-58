@@ -196,11 +196,13 @@ a {
   right: 0;
 
   display: block;
+
+  color: #212529;
 }
 
 .video-div {
   position: absolute;
-  top: 329px;
+  top: 325px;
   left: 261px;
 
   width: 919px;
