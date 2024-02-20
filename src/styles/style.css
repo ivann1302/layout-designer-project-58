@@ -89,6 +89,8 @@ a {
   left: 461px;
 
   height: 525px;
+
+  overflow: hidden;
 }
 
 .bg-color-light {
