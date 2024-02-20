@@ -277,7 +277,7 @@ width: 350px;
   height: 323px;
   margin-bottom: 20px;
 
-  background-color: var(--white-color);
+  background-color: var(--light-color);
 }
 
 .card-mrg-left {
@@ -292,7 +292,7 @@ width: 350px;
   height: 348px;
   
 
-  background-color: var(--white-color);
+  background-color: var(--light-color);
 }
 
 .first-card-text {
