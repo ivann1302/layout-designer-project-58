@@ -192,7 +192,7 @@ a {
 
 .video-p {
   position: absolute;
-  top: 273px;
+  top: 272px;
   left: 0;
   right: -2px;
 
@@ -244,8 +244,8 @@ a {
 
 .card-conteiner {
   position: relative;
-  top: -5px;
-  left: -7px;
+  top: -9px;
+  left: -10px;
 
   display: flex;
   flex-wrap: wrap;
